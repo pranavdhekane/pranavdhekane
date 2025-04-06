@@ -23,8 +23,6 @@
   </a>
 </p>
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -45,8 +43,6 @@
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40" height="40"/> 
 </p>
 
----
-
 ### 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhekane&layout=compact&theme=radical" alt="top-langs" /></p>
@@ -55,14 +51,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavdhekane&theme=radical" alt="streak-stats" /></p>
 
----
-
 ### 🧠 LeetCode Stats:
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/pranavdhekane?theme=dark&ext=contest" alt="LeetCode Stats" />
-</p>
+<img src="https://leetcard.jacoblin.cool/pranavdhekane?theme=dark&ext=contest" alt="LeetCode Stats" />
 
---- 
+---
 
 <img align="center" width="300" src="https://github.com/pranavdhekane/pranavdhekane/blob/main/cat.gif" alt="cat" />
+
